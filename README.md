@@ -39,7 +39,7 @@
 - Refined dataframe to combine both innings of the match into one record.
 - Model creates numerous indivudal decision trees which return class prediction. At the end, majority vote is taken to determine final class.
 - Model predicted outcome of each match based on data from both innings.
-- Accuracy: 80.81%
+- Accuracy: 80.80%
 
 ## Conclusion
 
